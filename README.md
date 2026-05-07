@@ -13,7 +13,7 @@
 
 
 
-# Dependencies install karein (Python 3.13 hona chahiye)
+# Dependencies install process (Python 3.13 recommend)
    
     pkg install python3
 
