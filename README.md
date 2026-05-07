@@ -6,6 +6,13 @@
 
 
 
+
+
+
+<img width="680" height="392" alt="Image" src="https://github.com/user-attachments/assets/4f5dc616-f54e-431f-9868-f6ff0ae583ab" />
+
+
+
 # Dependencies install karein (Python 3.13 hona chahiye)
    
     pkg install python3
