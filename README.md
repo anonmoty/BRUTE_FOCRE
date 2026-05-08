@@ -32,9 +32,15 @@
 
     
 
-# How to run 
+
+
+# Permission need 
+    chmod +x BRUTE_FIRCE
+
+# Run karein
     ./BRUTE_FIRCE
 
-# Ya help ke liye
+# example 
 ./BRUTE_FIRCE --help
 ./BRUTE_FIRCE -h
+
