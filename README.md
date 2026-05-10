@@ -23,6 +23,8 @@
 
     pkg install clang -y
 
+    pkg install git -y
+
 # How to install in termux 
     git clone https://github.com/anonmoty/BRUTE_FOCRE.git
 
